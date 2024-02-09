@@ -31,7 +31,7 @@ export default function Home() {
       <div className="flex justify-between items-center">
       <p className="">threads clone</p>
       <div className="flex">
-      <a href="https://galaxy-generator-sooty-six.vercel.app/" className="ml-4 mr-2 hover:underline">live</a>
+      <a href="https://threads-clone-ebon-eight.vercel.app/" className="ml-4 mr-2 hover:underline">live</a>
       <a href="https://github.com/laura-codess/threads-clone" className="hover:underline">github</a>
       </div>
       </div>
@@ -40,7 +40,7 @@ export default function Home() {
       <div className="flex justify-between items-center">
       <p className="pt-5">galaxy generator</p>
       <div className="flex">
-      <a href="https://threads-clone-ebon-eight.vercel.app/" className="ml-4 mr-2 hover:underline">live</a>
+      <a href="https://galaxy-generator-sooty-six.vercel.app/" className="ml-4 mr-2 hover:underline">live</a>
       <a href="https://github.com/laura-codess/galaxy-generator" className="hover:underline">github</a>
       </div>
       </div>
@@ -52,7 +52,7 @@ export default function Home() {
       <div className="flex justify-between items-center">
       <p className="">math society</p>
       <div className="flex">
-      <a href="https://devpost.com/software/vimcat" className="hover:underline">2022 - Present</a>
+      <a href="https://wp.nyu.edu/nyumathsociety/" className="hover:underline">2022 - Present</a>
       </div>
       </div>
       <p className="text-mygray">role: president</p>
@@ -60,7 +60,7 @@ export default function Home() {
       <div className="flex justify-between items-center">
       <p className="pt-5">women in computing</p>
       <div className="flex">
-      <a href="https://devpost.com/software/vimcat" className="hover:underline">2024 - Present</a>
+      <a href="https://nyuwinc.org/" className="hover:underline">2024 - Present</a>
       </div>
       </div>
       <p className="text-mygray">role: marketing coordinator</p>
