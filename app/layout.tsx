@@ -11,6 +11,9 @@ const radio = Radio_Canada({
 export const metadata: Metadata = {
   title: "laura",
   description: "laura's personal portfolio",
+  icons: {
+    icon: "/favicon.ico",
+  },
 };
 
 export default function RootLayout({
