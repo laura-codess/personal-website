@@ -15,7 +15,7 @@ export default function Home() {
     <div className="w-full">
     <div className="min-h-screen ">
       <div className="flex flex-row justify-between ">
-        <p>laura chen</p>
+        <p className="custom-text-18">laura chen</p>
         <Navbar />
       </div>
 
@@ -40,7 +40,7 @@ export default function Home() {
       <div className="flex justify-between items-center">
       <p className="pt-5">galaxy generator</p>
       <div className="flex">
-      <a href="https://galaxy-generator-sooty-six.vercel.app/" className="ml-4 mr-2 hover:underline">live</a>
+      <a href="https://galaxy-generator-sooty-six.vercel.app/" className="ml-4 mr-2 hover:underline text-10 sm:text-16">live</a>
       <a href="https://github.com/laura-codess/galaxy-generator" className="hover:underline">github</a>
       </div>
       </div>

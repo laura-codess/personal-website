@@ -15,7 +15,7 @@ export default function Home() {
     <div className="w-full">
     <div className="min-h-screen ">
       <div className="flex flex-row justify-between ">
-        <p>laura chen</p>
+        <p className="custom-text-18">laura chen</p>
         <Navbar/>
       </div>
 
@@ -25,7 +25,7 @@ export default function Home() {
       <p>[ she/her ]</p>
 
       <p className="pt-10">i'm currently a computer science & mathematics double major at new york university. i have a passion for coding, learning and building.</p>
-      <p className="pt-10">when im not programming you can catch me lounging around, trying new restaurants, and staring at other people's dogs. </p>
+      <p className="pt-10">when i'm not programming you can catch me lounging around, trying new restaurants, and staring at other people's dogs. </p>
 
   <p className="pt-10">i still have much more to learn, and i'm always open to exploring new opportunities,  <span className="font-bold"><a href="mailto:lc5065@nyu.edu">connect with me here.</a></span></p>
 
