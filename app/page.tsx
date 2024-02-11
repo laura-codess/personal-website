@@ -22,8 +22,8 @@ export default function Home() {
       <div className="font-bold pt-10 pb-5 text-mypink">
         WORK
       </div>
-      <p>created a demo video and edited the landing page at <a href="https://swiftxr.io/" className="hover:underline">SwiftXR</a></p>
-      <p className="text-mygray">SUMMER 2023 - react</p>
+      <p>created a demo video and edited the landing page at <a href="https://swiftxr.io/" className="underline">SwiftXR</a></p>
+      <p className="text-mygray">summer 2023 - react</p>
 
       <div className="font-bold pt-10 pb-5 text-mypink">
         PROJECTS
@@ -50,20 +50,20 @@ export default function Home() {
       LEADERSHIP
       </div>
       <div className="flex justify-between items-center">
-      <p className="">math society</p>
+      <p className="">math society @ nyu</p>
       <div className="flex">
       <a href="https://wp.nyu.edu/nyumathsociety/" className="hover:underline">2022 - Present</a>
       </div>
       </div>
-      <p className="text-mygray">role: president</p>
+      <p className="text-mygray">president</p>
 
       <div className="flex justify-between items-center">
-      <p className="pt-5">women in computing</p>
+      <p className="pt-5">women in computing @ nyu</p>
       <div className="flex">
       <a href="https://nyuwinc.org/" className="hover:underline">2024 - Present</a>
       </div>
       </div>
-      <p className="text-mygray">role: marketing coordinator</p>
+      <p className="text-mygray">marketing coordinator</p>
 
 
       <div className="font-bold pt-10 pb-5 text-mypink">
@@ -75,7 +75,7 @@ export default function Home() {
       <a href="https://devpost.com/software/vimcat" className="hover:underline">devpost</a>
       </div>
       </div>
-      <p className="text-mygray">#1 Track Winner @ HackNYU</p>
+      <p className="text-mygray">#1 @ HackNYU</p>
 
       <ul className="pt-10 flex flex-row">
       <a href="https://github.com/laura-codess" className="pr-5">
