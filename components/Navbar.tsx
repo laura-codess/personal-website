@@ -37,6 +37,16 @@ function Navbar() {
       >
         <a href="mailto:lc5065@nyu.edu">contact</a>
       </li>
+      <li 
+      className={`flex flex-row items-center ${pathname === '/resume' ? 'text-mypink' : 'text-black'}`}
+      onMouseEnter={() => setHovered("resume")}
+      style={hovered === "resume" ? hoverStyle : undefined}
+      >
+  <a href="/resume.pdf" target="_blank" rel="noopener noreferrer" className="flex items-center">
+    <p className="text-right pr-0 pt-0.5 sm:pr-1 sm:pl-1">resume</p>
+    <img src="/resume.svg" alt="Download resume" width={20} height={20} style={{ filter: hovered === "resume" ? "none": "mygray"}}/>
+  </a>
+</li>
     </ul>
   );
 }

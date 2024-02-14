@@ -15,7 +15,9 @@ export default function Home() {
     <div className="w-full">
     <div className="min-h-screen ">
       <div className="flex flex-row justify-between ">
+        
         <p className="custom-text-18">laura chen</p>
+     
         <Navbar />
       </div>
 
