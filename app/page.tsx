@@ -22,6 +22,9 @@ export default function Home() {
       <div className="font-bold pt-10 pb-5 text-mypink">
         WORK
       </div>
+      <p>selected to participate in the accelerate program at <a href="https://www.ibm.com/us-en" className="underline">IBM</a></p>
+      <p className="text-mygray">summer 2024 - cloud computing, AI</p>
+      <br></br>
       <p>created a demo video and edited the landing page at <a href="https://swiftxr.io/" className="underline">SwiftXR</a></p>
       <p className="text-mygray">summer 2023 - react</p>
 
@@ -29,7 +32,7 @@ export default function Home() {
         PROJECTS
       </div>
       <div className="flex justify-between items-center">
-      <p className="">threads clone</p>
+      <p className="">cloudchat</p>
       <div className="flex">
       <a href="https://threads-clone-ebon-eight.vercel.app/" className="ml-4 mr-2 hover:underline">live</a>
       <a href="https://github.com/laura-codess/threads-clone" className="hover:underline">github</a>
