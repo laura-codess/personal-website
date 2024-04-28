@@ -45,7 +45,7 @@ export default function Home() {
       reset() {
         this.x = Math.random() * canvas.width;
         this.y = Math.random() * canvas.height * 2 - canvas.height;
-        this.w = 25 + Math.random() * 15;
+        this.w = 15 + Math.random() * 15;
         this.h = 20 + Math.random() * 10;
         this.opacity = this.w / 40;
         this.flip = Math.random();
@@ -103,6 +103,15 @@ export default function Home() {
             <Navbar />
           </div>
           <div className="font-bold pt-10 pb-5 text-mypink">WORK</div>{" "}
+
+          <p>
+            incoming data analyst at {" "}
+            <a href="https://www.vrindainc.com/" className="underline">
+              Vrinda
+            </a>
+          </p>
+          <p className="text-mygray">summer 2024 - numpys, sql</p>
+          <br></br>
           <p>
             selected to participate in the accelerate program at{" "}
             <a href="https://www.ibm.com/us-en" className="underline">
