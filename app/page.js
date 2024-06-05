@@ -105,12 +105,12 @@ export default function Home() {
           <div className="font-bold pt-10 pb-5 text-mypink">WORK</div>{" "}
 
           <p>
-            incoming data analyst at {" "}
+            built an ai powered internal tool at {" "}
             <a href="https://www.vrindainc.com/" className="underline">
               Vrinda
             </a>
           </p>
-          <p className="text-mygray">summer 2024 - numpys, sql</p>
+          <p className="text-mygray">summer 2024 - next.js, express, react, sql, numpys, openai sdk</p>
           <br></br>
           <p>
             selected to participate in the accelerate program at{" "}
