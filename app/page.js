@@ -103,6 +103,14 @@ export default function Home() {
             <Navbar />
           </div>
           <div className="font-bold pt-10 pb-5 text-mypink">WORK</div>{" "}
+          <p>
+            incoming software engineer intern {" "}
+            <a href="https://www.vrindainc.com/" className="underline">
+              Salesforce
+            </a>
+          </p>
+          <p className="text-mygray">summer 2025 - data cloud</p>
+          <br></br>
 
           <p>
             built an ai powered internal tool at {" "}
