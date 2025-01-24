@@ -105,11 +105,11 @@ export default function Home() {
           <div className="font-bold pt-10 pb-5 text-mypink">WORK</div>{" "}
           <p>
             incoming software engineer intern {" "}
-            <a href="https://www.salesforce.com/" className="underline">
-              Salesforce
+            <a href="" className="underline">
+              TBD
             </a>
           </p>
-          <p className="text-mygray">summer 2025 - data cloud</p>
+          <p className="text-mygray">summer 2025</p>
           <br></br>
 
           <p>
