@@ -104,9 +104,9 @@ export default function Home() {
           </div>
           <div className="font-bold pt-10 pb-5 text-mypink">WORK</div>{" "}
           <p>
-            incoming software engineer intern {" "}
-            <a href="" className="underline">
-              TBD
+            incoming software development engineer intern {" "}
+            <a href="https://aws.amazon.com/" className="underline">
+              AWS
             </a>
           </p>
           <p className="text-mygray">summer 2025</p>
