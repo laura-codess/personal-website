@@ -221,6 +221,7 @@ export default function Home() {
             </div>
           </div>
           <p className="text-mygray">#1 @ hackNYU</p>
+          <br></br>
           <div className="flex justify-between items-center">
             <p className="">disGLOW</p>
             <div className="flex">
@@ -232,7 +233,6 @@ export default function Home() {
               </a>
             </div>
           </div>
-          <br></br>
           <p className="text-mygray">#1 @ GirlHacks 2024</p>
           <ul className="pt-10 flex flex-row">
             <a href="https://github.com/laura-codess" className="pr-5">
