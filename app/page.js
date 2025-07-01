@@ -232,6 +232,7 @@ export default function Home() {
               </a>
             </div>
           </div>
+          <br></br>
           <p className="text-mygray">#1 @ GirlHacks 2024</p>
           <ul className="pt-10 flex flex-row">
             <a href="https://github.com/laura-codess" className="pr-5">
