@@ -104,7 +104,7 @@ export default function Home() {
           </div>
           <div className="font-bold pt-10 pb-5 text-mypink">WORK</div>{" "}
           <p>
-            incoming software development engineer intern {" "}
+            built the E2E testing suite for Amazon Q at {" "}
             <a href="https://aws.amazon.com/" className="underline">
               AWS
             </a>
