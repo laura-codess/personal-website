@@ -221,6 +221,18 @@ export default function Home() {
             </div>
           </div>
           <p className="text-mygray">#1 @ hackNYU</p>
+          <div className="flex justify-between items-center">
+            <p className="">disGLOW</p>
+            <div className="flex">
+              <a
+                href="https://devpost.com/software/disglow"
+                className="hover:underline"
+              >
+                devpost
+              </a>
+            </div>
+          </div>
+          <p className="text-mygray">#1 @ GirlHacks 2024</p>
           <ul className="pt-10 flex flex-row">
             <a href="https://github.com/laura-codess" className="pr-5">
               <img src="/github.svg" alt="github" width={30} height={30} />
